@@ -1,0 +1,10 @@
+C:\Users\Vlad\source\repos\TaskS\TaskS\bin\Debug\TaskS.exe.config
+C:\Users\Vlad\source\repos\TaskS\TaskS\bin\Debug\TaskS.exe
+C:\Users\Vlad\source\repos\TaskS\TaskS\bin\Debug\TaskS.pdb
+C:\Users\Vlad\source\repos\TaskS\TaskS\obj\Debug\TaskS.csproj.AssemblyReference.cache
+C:\Users\Vlad\source\repos\TaskS\TaskS\obj\Debug\TaskS.NumbersApp.resources
+C:\Users\Vlad\source\repos\TaskS\TaskS\obj\Debug\TaskS.Properties.Resources.resources
+C:\Users\Vlad\source\repos\TaskS\TaskS\obj\Debug\TaskS.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\TaskS\TaskS\obj\Debug\TaskS.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\TaskS\TaskS\obj\Debug\TaskS.exe
+C:\Users\Vlad\source\repos\TaskS\TaskS\obj\Debug\TaskS.pdb
